@@ -1,0 +1,29 @@
+1688323287450:add-student John Doe 25
+1688323298139:addStudent John Doe 25
+1688323326697:add-student John Doe 25
+1688323349634:add-student Jane Smith 30
+1688323360535:view-students
+1688323668665:add-student John Doe 25
+1688323677012:view-students
+1688323686381:delete-student 1
+1688323697253:view-stutends
+1688323700705:view-students
+1688323708603:clear-students
+1688323713465:view-students
+1719138338729:addStudent --firstName РџРµС‚СЂ --lastName РљРѕРїС‹СЂСЋР»РёРЅ --age 36
+1719138404036:addStudent --firstName firstName --lastName lastName --age 36
+1719138413094:listStudent
+1719143339744:addStudent --firstName Petr --lastName Kopuriulin --age 55
+1719143359958:addStudent --firstName Petr2 --lastName Kopuriulin2 --age 552
+1719143369025:listStudents
+1719143397256:deleteStudent --id 1
+1719143403311:listStudents
+1719143413400:deleteAllStudent
+1719143419458:listStudents
+1719144373811:addStudent --firstName Petr --lastName Kopuriulin --age 55
+1719145060948:deleteStudent --id 1
+1719145106798:addStudent --firstName Petr --lastName Kopuriulin --age 55
+1719145116887:deleteStudent --id 1
+1719147749837:listStudents
+1719148071872:listStudents()
+1719148087040:listStudents
